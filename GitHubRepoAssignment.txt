@@ -1,0 +1,6 @@
+Made a new repository on GitHub named GitHubRepoAssignment
+Made a folder named GitHubRepoAssignment
+Made a readme.md
+Made the folder GitHubRepoAssignment into a repository
+Added remote repository 
+Commited and uploaded readme.md
